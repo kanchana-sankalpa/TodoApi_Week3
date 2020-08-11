@@ -458,8 +458,6 @@ D:\Visual Studio\source\TodoApi_Week3\TodoApi_Week3\bin\Debug\netcoreapp3.1\runt
 D:\Visual Studio\source\TodoApi_Week3\TodoApi_Week3\obj\Debug\netcoreapp3.1\TodoApi.csprojAssemblyReference.cache
 D:\Visual Studio\source\TodoApi_Week3\TodoApi_Week3\obj\Debug\netcoreapp3.1\TodoApi.AssemblyInfoInputs.cache
 D:\Visual Studio\source\TodoApi_Week3\TodoApi_Week3\obj\Debug\netcoreapp3.1\TodoApi.AssemblyInfo.cs
-D:\Visual Studio\source\TodoApi_Week3\TodoApi_Week3\obj\Debug\netcoreapp3.1\TodoApi.csproj.CoreCompileInputs.cache
-D:\Visual Studio\source\TodoApi_Week3\TodoApi_Week3\obj\Debug\netcoreapp3.1\TodoApi.MvcApplicationPartsAssemblyInfo.cache
 D:\Visual Studio\source\TodoApi_Week3\TodoApi_Week3\obj\Debug\netcoreapp3.1\TodoApi.RazorAssemblyInfo.cache
 D:\Visual Studio\source\TodoApi_Week3\TodoApi_Week3\obj\Debug\netcoreapp3.1\TodoApi.RazorAssemblyInfo.cs
 D:\Visual Studio\source\TodoApi_Week3\TodoApi_Week3\obj\Debug\netcoreapp3.1\TodoApi.TagHelpers.input.cache
@@ -475,3 +473,10 @@ D:\Visual Studio\source\TodoApi_Week3\TodoApi_Week3\obj\Debug\netcoreapp3.1\stat
 D:\Visual Studio\source\TodoApi_Week3\TodoApi_Week3\obj\Debug\netcoreapp3.1\TodoApi.dll
 D:\Visual Studio\source\TodoApi_Week3\TodoApi_Week3\obj\Debug\netcoreapp3.1\TodoApi.pdb
 D:\Visual Studio\source\TodoApi_Week3\TodoApi_Week3\obj\Debug\netcoreapp3.1\TodoApi.genruntimeconfig.cache
+D:\Visual Studio\source\TodoApi_Week3\TodoApi_Week3\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Visual Studio\source\TodoApi_Week3\TodoApi_Week3\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Visual Studio\source\TodoApi_Week3\TodoApi_Week3\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Visual Studio\source\TodoApi_Week3\TodoApi_Week3\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Visual Studio\source\TodoApi_Week3\TodoApi_Week3\obj\Debug\netcoreapp3.1\TodoApi.csproj.CoreCompileInputs.cache
+D:\Visual Studio\source\TodoApi_Week3\TodoApi_Week3\obj\Debug\netcoreapp3.1\TodoApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Visual Studio\source\TodoApi_Week3\TodoApi_Week3\obj\Debug\netcoreapp3.1\TodoApi.MvcApplicationPartsAssemblyInfo.cache
